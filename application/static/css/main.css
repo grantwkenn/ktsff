@@ -77,3 +77,12 @@ footer {
     margin-right: -4px;
 }
 
+.divider {
+    height: 15px;
+    margin: 0px 15px 10px 15px;
+    border-bottom: 1px solid #777;
+}
+
+small {
+    font-size: 16px;
+}
