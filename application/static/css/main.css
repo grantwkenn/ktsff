@@ -51,10 +51,18 @@ footer {
 
 .heading {
     background: url(/static/images/homeimage.png) no-repeat center;
-    min-height: 300px;
+    min-height: 200px;
     height: 500px;
     width: 100%;
     background-size: cover;
+}
+
+.downloads {
+    background: url(/static/images/layoutinverted.png) no-repeat center;
+    min-height: 400px;
+    height: 100%;
+
+
 }
 
 .container {
